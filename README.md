@@ -2,6 +2,7 @@
 This project is a console-based Kanban board application implemented in C. It allows users to create, edit, display, and save Kanban boards, with various lists and items to track tasks and projects
 
 Features
+
 Display Board: Visualize the current state of your Kanban board with all its lists and items.
 Load Board from File: Load a board configuration from a text file.
 Edit List or Board: Add, delete, and modify the names of lists and items.
